@@ -1,2 +1,2 @@
 # Tags
-Using elixir for the first time.
+Simple example using elixir for the first time.
